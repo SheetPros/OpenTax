@@ -74,7 +74,7 @@ No experience? Try docs or bug reports—every bit counts!
 
 ## Questions?
 - **Issues**: File bugs or ideas at [GitHub Issues](https://github.com/SheetPros/OpenTax/issues).
-- **Chat**: Join [Discussions](https://github.com/SheetPros/OpenTax/discussions) or tweet #AmericanStandard.
+- **Chat**: Join [Discussions](https://github.com/SheetPros/OpenTax/discussions) or @MrHorstick
 - **Email**: opentax.devs@gmail.com (TBD).
 
 Thank you for building OpenTax—let’s unify finance, securely and fairly!
