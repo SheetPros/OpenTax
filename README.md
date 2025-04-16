@@ -1,5 +1,5 @@
 # OpenTax
-A free, OData-based universal transaction standard, inspired by UK tax systems. Secure, auditable, interoperable
+A free, OData-based universal transaction standard, inspired by UK tax systems. Secure, auditable, interoperable aligning with MCP Framework developments. 
 
 # OpenTax
 
