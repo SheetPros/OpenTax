@@ -3,7 +3,7 @@ A free, OData-based universal transaction standard, inspired by UK tax systems. 
 
 # OpenTax
 
-**OpenTax** is an open-source initiative to transform taxes and accounting through a **universal transaction standard**. Built on (https://www.odata.org), inspired by the UK’s [Making Tax Digital], it’s secure, auditable, and interoperable—designed to save $80 billion in tax processing costs and enable fair, transparent oversight of public funds.
+**OpenTax** is an open-source initiative to transform taxes and accounting through a **universal transaction standard**. Built with (https://www.odata.org) principles in mind, inspired by the UK’s [Making Tax Digital], it’s secure, auditable, and interoperable—designed to save $80 billion in tax processing costs and enable fair, transparent oversight of public funds.
 
 Our mission is to unify financial systems for everyone—individuals, businesses, and governments—making compliance effortless and empowering communities to verify how taxes are spent, all while keeping data safe.
 
